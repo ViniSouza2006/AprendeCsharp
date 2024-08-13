@@ -1,0 +1,14 @@
+C:\Users\vinicius.snascimen2\source\repos\Vinicius\aprendendoCsharp\Cap02_Ex01\bin\Debug\Cap02_Ex01.exe.config
+C:\Users\vinicius.snascimen2\source\repos\Vinicius\aprendendoCsharp\Cap02_Ex01\bin\Debug\Cap02_Ex01.exe
+C:\Users\vinicius.snascimen2\source\repos\Vinicius\aprendendoCsharp\Cap02_Ex01\bin\Debug\Cap02_Ex01.pdb
+C:\Users\vinicius.snascimen2\source\repos\Vinicius\aprendendoCsharp\Cap02_Ex01\obj\Debug\Cap02_Ex01.csproj.AssemblyReference.cache
+C:\Users\vinicius.snascimen2\source\repos\Vinicius\aprendendoCsharp\Cap02_Ex01\obj\Debug\Cap02_Ex01.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.snascimen2\source\repos\Vinicius\aprendendoCsharp\Cap02_Ex01\obj\Debug\Cap02_Ex01.exe
+C:\Users\vinicius.snascimen2\source\repos\Vinicius\aprendendoCsharp\Cap02_Ex01\obj\Debug\Cap02_Ex01.pdb
+C:\Users\vinicius.snascimen2\source\repos\aprendendoCsharp\Cap02_Ex01\bin\Debug\Cap02_Ex01.exe.config
+C:\Users\vinicius.snascimen2\source\repos\aprendendoCsharp\Cap02_Ex01\bin\Debug\Cap02_Ex01.exe
+C:\Users\vinicius.snascimen2\source\repos\aprendendoCsharp\Cap02_Ex01\bin\Debug\Cap02_Ex01.pdb
+C:\Users\vinicius.snascimen2\source\repos\aprendendoCsharp\Cap02_Ex01\obj\Debug\Cap02_Ex01.csproj.AssemblyReference.cache
+C:\Users\vinicius.snascimen2\source\repos\aprendendoCsharp\Cap02_Ex01\obj\Debug\Cap02_Ex01.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.snascimen2\source\repos\aprendendoCsharp\Cap02_Ex01\obj\Debug\Cap02_Ex01.exe
+C:\Users\vinicius.snascimen2\source\repos\aprendendoCsharp\Cap02_Ex01\obj\Debug\Cap02_Ex01.pdb

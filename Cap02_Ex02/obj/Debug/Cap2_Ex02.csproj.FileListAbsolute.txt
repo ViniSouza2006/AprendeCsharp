@@ -1,0 +1,7 @@
+C:\Users\vinicius.snascimen2\source\repos\Vinicius\aprendendoCsharp\Cap2_Ex02\obj\Debug\Cap2_Ex02.csproj.AssemblyReference.cache
+C:\Users\vinicius.snascimen2\source\repos\Vinicius\aprendendoCsharp\Cap2_Ex02\obj\Debug\Cap2_Ex02.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.snascimen2\source\repos\Vinicius\aprendendoCsharp\Cap2_Ex02\bin\Debug\Cap2_Ex02.exe.config
+C:\Users\vinicius.snascimen2\source\repos\Vinicius\aprendendoCsharp\Cap2_Ex02\bin\Debug\Cap2_Ex02.exe
+C:\Users\vinicius.snascimen2\source\repos\Vinicius\aprendendoCsharp\Cap2_Ex02\bin\Debug\Cap2_Ex02.pdb
+C:\Users\vinicius.snascimen2\source\repos\Vinicius\aprendendoCsharp\Cap2_Ex02\obj\Debug\Cap2_Ex02.exe
+C:\Users\vinicius.snascimen2\source\repos\Vinicius\aprendendoCsharp\Cap2_Ex02\obj\Debug\Cap2_Ex02.pdb

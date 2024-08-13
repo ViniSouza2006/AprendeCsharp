@@ -1,0 +1,17 @@
+Para adicionar um Arquivo.txt
+Clique com o botão direito em cima da solução
+Ache o botão adicionar Novo Item e selecione o Arquivo.txt
+
+13/08/2024
+
+CONSOLE séra a entrada e saída de programação para os aplicativos console
+WRITE é usado como escrever qualquer valor guardado em seua variavel
+WRITELINE é usado para escrever na linha a STRING guardada
+READLINE Lê a proxima linha 
+ATRIBUIÇÃO é feito com (" = ")
+&& é um valor booleano como OU 
+FLOAT representa um ponto flutuante ( , . )
+IF = SE
+ELSE = SENAO 
+
+
